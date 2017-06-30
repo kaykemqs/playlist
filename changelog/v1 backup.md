@@ -5,7 +5,7 @@
 <div style="text-align: center;">
 <span style="font-family: Times, Times New Roman, serif;">Primeiro grande update! Adicionado o website em si mais a playlist&nbsp;</span></div>
 <div style="text-align: center;">
-<span style="font-family: Times, Times New Roman, serif;">Ultimate Pop (atualmente na sua vers„o 1.4 &lt;3</span></div>
+<span style="font-family: Times, Times New Roman, serif;">Ultimate Pop (atualmente na sua vers√£o 1.4 &lt;3</span></div>
 <div style="text-align: center;">
 <span style="font-family: Times, Times New Roman, serif;"><br /></span></div>
 <div style="text-align: center;">
