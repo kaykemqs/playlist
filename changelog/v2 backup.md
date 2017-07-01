@@ -12,7 +12,7 @@ Segundo update.</div>
 <div style="box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16px; margin-bottom: 0px !important; text-align: center;">
 - Adicionada a playlist "Escuta aleatória"</div>
 <div style="box-sizing: border-box; color: #24292e; font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; font-size: 16px; margin-bottom: 0px !important; text-align: center;">
-- Alterado o texto para imagem. </div>
+- Alterado o texto para imagem.</div>
 </div>
 <div style="text-align: center;">
 </div>
